@@ -7,5 +7,9 @@ public class Main {
         System.out.println("Github Example");
 
         System.out.println("Test line");
+
+        System.out.println("Another line");
+
+        System.out.println("Yet another line");
     }
 }
