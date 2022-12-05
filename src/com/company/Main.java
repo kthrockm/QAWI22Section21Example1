@@ -10,6 +10,6 @@ public class Main {
 
         System.out.println("Another line");
 
-        System.out.println("Yet another line");
+        System.out.println("Yet another line - but this one changed");
     }
 }
